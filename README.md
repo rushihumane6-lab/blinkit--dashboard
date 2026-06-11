@@ -69,6 +69,6 @@ Strategic Recommendations
   -Monitor customer ratings to enhance customer retention and satisfaction.
 
   Dashboard Screenshots
-Complete Dashboard Overview:-
+Complete Dashboard Overview:- https://github.com/rushihumane6-lab/blinkit--dashboard/blob/main/Screenshot%202026-06-11%20170821.png
 
   
